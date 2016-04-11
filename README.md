@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Protobox #
 
 Protobox is a layer on top of [vagrant](http://vagrantup.com) and a [web GUI](http://getprotobox.com/about) to setup virtual machines for web development. A single [YAML document](https://github.com/protobox/protobox/blob/master/data/config/common.yml-dist) controls everything that is installed on the virtual machine. You can install [popular languages](https://github.com/protobox/protobox-docs/blob/master/modules.md#languages), [software](https://github.com/protobox/protobox-docs/blob/master/modules.md), and even [popular web applications](https://github.com/protobox/protobox-docs/blob/master/applications.md) or your [own private GIT repositories](#applications) with a simple on/off toggle in YAML. You can read more about why this was developed in our [about document](https://github.com/protobox/protobox-docs/blob/master/about.md) or on our website at [getprotobox.com](http://getprotobox.com/docs/about). 
